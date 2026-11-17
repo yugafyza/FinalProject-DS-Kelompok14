@@ -1,0 +1,6 @@
+Nama Sumber Data / Direktori,Status robots.txt,ToS Membolehkan Scraping?
+Google Maps Platform (Places API),Dibatasi,"Tidak — gunakan Places API resmi berbayar, bukan scraping HTML"
+OpenStreetMap / Overpass API,Diizinkan,"Ya — data terbuka ODbL, wajib atribusi dan patuhi rate limit"
+Direktori Asosiasi F&B / Kafe (contoh),Tidak ada / tidak jelas,Tidak jelas — minta izin tertulis ke pengelola
+LinkedIn,Dibatasi,Tidak — scraping melanggar ToS
+BPS / Open Data Provinsi,Diizinkan,"Ya — data publik agregat, bukan kontak pribadi"
